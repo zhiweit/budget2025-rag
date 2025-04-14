@@ -1,7 +1,7 @@
 # Use postgres/example user/password credentials
 volumes:
   db_data: {}
-
+  ollama_data: {}
 services:
   db:
     image: pgvector/pgvector:pg17 # postgres with pgvector extension
@@ -15,3 +15,10 @@ services:
 
     ports:
       - ${DB_PORT}:5432
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - 11434:11434
+    volumes:
+      - ollama_data:/root/.ollama
