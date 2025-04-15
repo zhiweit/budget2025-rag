@@ -127,7 +127,7 @@ docker compose exec ollama ollama pull llama3.2:3b
 To follow the logs
 
 ```bash
-docker compose logs -f ollama
+docker compose logs -f
 ```
 
 Navigate to `http://localhost:8501` to access the chatbot. You may have to wait for a few minutes for the embedding model weights to be downloaded from hugging face. Check the logs to see that 'Startup completed' to ensure that the models e.g. embedding model (from hugging face) are loaded successfully.
