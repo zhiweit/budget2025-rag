@@ -1,6 +1,13 @@
 # budget2025-rag
 
-Chatbot for Budget 2025 with RAG
+Chatbot for Budget 2025 with RAG using open source models.
+
+Demo
+
+
+https://github.com/user-attachments/assets/51c94003-5d33-42f5-a874-e91938faacb3
+
+
 
 ## Features
 
