@@ -1,18 +1,19 @@
 import streamlit as st
 import uuid
 import atexit
-import os
 import random
 import time
+import phoenix as px
 from llama_index.core.chat_engine.types import StreamingAgentChatResponse, ChatMode
 from llama_index.core.agent.react.base import ReActAgent
 from llama_index.core.memory import ChatMemoryBuffer
-from tracing import launch_phoenix, close_phoenix
+import llama_index.core
 from chat_engine import (
     similarity_postprocessor, 
     response_synthesizer, 
     SIMILARITY_TOP_K, 
-    sentence_transformer_reranker, 
+    # sentence_transformer_reranker,  # this caused problems when running in docker container
+    jina_reranker,
     chat_engine_llm
 )
 from vectors import vsi
@@ -27,7 +28,8 @@ if 'chat_engine' not in st.session_state:
         similarity_top_k=SIMILARITY_TOP_K,
         node_postprocessors=[
             similarity_postprocessor,
-            sentence_transformer_reranker
+            # sentence_transformer_reranker,
+            jina_reranker
         ],
         response_synthesizer=response_synthesizer,
         streaming=True,
@@ -35,20 +37,25 @@ if 'chat_engine' not in st.session_state:
     )
 
     st.session_state['chat_engine'] = chat_engine
+
+    # remove memory for now as it does not work well with the chat engine i.e. the llm pays more attention to the memory than the context
     thread_id = str(uuid.uuid4())
     st.session_state['thread_id'] = thread_id
     print(f"Thread ID: {thread_id}")
+
     # Launch Phoenix tracing
-    launch_phoenix()
-    print("Phoenix launched at port 6006")
+    if not px.active_session():
+        px.launch_app()
+        llama_index.core.set_global_handler("arize_phoenix")
+        print("Phoenix launched")
     print("Startup completed")
 
 
 # Register cleanup function to be called at shutdown
 def cleanup():
-    # Add your cleanup code here
-    close_phoenix()
-    print("Phoenix closed")
+    if px.active_session():
+        px.close_app()
+        print("Phoenix closed")
     print("Cleanup completed")
 
 
@@ -72,6 +79,8 @@ def response_generator(question: str):
 
     else:    
         chat_engine: ReActAgent = st.session_state['chat_engine']
+
+        # remove memory for now as it does not work well with the chat engine i.e. the llm pays more attention to the memory than the context
         thread_id = st.session_state['thread_id']
         chat_history = chat_store.get_messages(thread_id)
 

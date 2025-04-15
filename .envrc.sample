@@ -1,0 +1,41 @@
+# All environment variables will be revoked after the review
+
+export DB_USER="" # fill this in
+export DB_PASSWORD="" # fill this in
+export DB_HOST="" # fill this in
+
+export DB_PORT=5432
+export DB_NAME="" # fill this in
+
+export HUGGING_FACE_TOKEN='' # fill this in
+export HUGGING_FACE_EMBEDDING_MODEL='intfloat/multilingual-e5-large'
+
+# Retriever
+export SIMILARITY_TOP_K=12
+
+# Similarity Postprocessor
+export SIMILARITY_CUTOFF=0.7
+
+# Reranker
+export JINA_API_KEY='' # fill this in
+export JINA_RERANKER_MODEL='jina-reranker-v2-base-multilingual'
+export JINA_RERANKER_TOP_N=4
+
+export SENTENCE_TRANSFORMER_RERANKER_MODEL='cross-encoder/stsb-distilroberta-base'
+export SENTENCE_TRANSFORMER_RERANKER_TOP_N=4
+
+# LLM Reranker
+export LITELLM_LLM_RERANKER_MODEL='ollama_chat/llama3.2:3b'
+export LLM_RERANKER_TOP_N=4
+export LLM_RERANKER_CHOICE_BATCH_SIZE=5
+
+# Response Synthesizer
+export LITELLM_RESPONSE_SYNTHESIZER_MODEL='ollama_chat/llama3.2:3b'
+
+# Chat Engine
+export LITELLM_CHAT_ENGINE_LLM_MODEL_NAME='ollama_chat/llama3.2:3b'
+
+export MISTRAL_API_KEY='' # fill this in
+export OLLAMA_API_BASE='http://ollama:11434' #'use this when using docker compose up with ollama service and streamlit app containers
+
+export TAVILY_API_KEY='' # fill this in

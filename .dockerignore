@@ -1,0 +1,50 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Tests
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dev files
+.envrc
+.envrc.sample
+.env
+.env.sample
+.python-version
+
+# Documentation
+README.md
+LICENSE
+docs/
+
+# Editor configs
+.idea/
+.vscode/
+*.swp
+*.swo 

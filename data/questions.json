@@ -1,0 +1,401 @@
+[{
+        "id": 1,
+        "question": "What is the main theme of the FY2025 Budget?"
+    },
+    {
+        "id": 2,
+        "question": "What does the “Forward Singapore” agenda represent?"
+    },
+    {
+        "id": 3,
+        "question": "What global economic trends were highlighted as challenges in 2025?"
+    },
+    {
+        "id": 4,
+        "question": "What was Singapore’s GDP growth in the previous year?"
+    },
+    {
+        "id": 5,
+        "question": "How has income inequality changed since 2000?"
+    },
+    {
+        "id": 6,
+        "question": "What is the projected GDP growth rate for 2025?"
+    },
+    {
+        "id": 7,
+        "question": "Why is Singapore’s geopolitical position described as vulnerable?"
+    },
+    {
+        "id": 8,
+        "question": "How does Singapore plan to secure its future despite global uncertainties?"
+    },
+    {
+        "id": 9,
+        "question": "What is the total value of CDC Vouchers each household will receive?"
+    },
+    {
+        "id": 10,
+        "question": "How are the CDC Vouchers distributed throughout the year?"
+    },
+    {
+        "id": 11,
+        "question": "What is the maximum amount of U-Save rebates for eligible HDB households?"
+    },
+    {
+        "id": 12,
+        "question": "How much LifeSG credit will families receive per child aged 12 and below?"
+    },
+    {
+        "id": 13,
+        "question": "What is the new Edusave top-up amount for teenagers?"
+    },
+    {
+        "id": 14,
+        "question": "What monthly assistance will 1-person ComCare households receive under Long-Term Assistance?"
+    },
+    {
+        "id": 15,
+        "question": "What are the new rates for the Singapore Allowance?"
+    },
+    {
+        "id": 16,
+        "question": "How many new BTO flats will be launched over the next three years?"
+    },
+    {
+        "id": 17,
+        "question": "What proportion of BTO applicants paid little or no out-of-pocket cash?"
+    },
+    {
+        "id": 18,
+        "question": "What is the purpose of the Corporate Income Tax rebate?"
+    },
+    {
+        "id": 19,
+        "question": "What is the maximum benefit cap for the rebate per company?"
+    },
+    {
+        "id": 20,
+        "question": "How will the Progressive Wage Credit Scheme co-funding rates change?"
+    },
+    {
+        "id": 21,
+        "question": "Name two frontier tech areas MNCs in Singapore are exploring."
+    },
+    {
+        "id": 22,
+        "question": "What is Singapore’s share of global DNA chip production?"
+    },
+    {
+        "id": 23,
+        "question": "Which company is cited as a key example in genome sequencing technology?"
+    },
+    {
+        "id": 24,
+        "question": "How much will be invested in refreshing the R&D infrastructure?"
+    },
+    {
+        "id": 25,
+        "question": "What is the purpose of the new semiconductor R&D fabrication facility?"
+    },
+    {
+        "id": 26,
+        "question": "What is the role of EDB’s Global Founder Programme?"
+    },
+    {
+        "id": 27,
+        "question": "What is the Enterprise Compute Initiative?"
+    },
+    {
+        "id": 28,
+        "question": "How much will be set aside for it?"
+    },
+    {
+        "id": 29,
+        "question": "What is the aim of the new Private Credit Growth Fund?"
+    },
+    {
+        "id": 30,
+        "question": "What is the role of the Equities Market Review Group?"
+    },
+    {
+        "id": 31,
+        "question": "How much will be allocated to the Changi Airport Development Fund?"
+    },
+    {
+        "id": 32,
+        "question": "What is the Future Energy Fund used for?"
+    },
+    {
+        "id": 33,
+        "question": "What proportion of electricity demand is expected to be met via imports by 2035?"
+    },
+    {
+        "id": 34,
+        "question": "What challenges does Singapore face in adopting nuclear energy?"
+    },
+    {
+        "id": 35,
+        "question": "What are small modular reactors (SMRs)?"
+    },
+    {
+        "id": 36,
+        "question": "How much will be topped up into the Coastal and Flood Protection Fund?"
+    },
+    {
+        "id": 37,
+        "question": "How much training allowance can mid-career Singaporeans receive per month?"
+    },
+    {
+        "id": 38,
+        "question": "What is the maximum allowance under the SkillsFuture Level-Up Programme?"
+    },
+    {
+        "id": 39,
+        "question": "What kind of support is given to part-time trainees?"
+    },
+    {
+        "id": 40,
+        "question": "What new tier will be added to the Workfare Skills Support Scheme?"
+    },
+    {
+        "id": 41,
+        "question": "What institutions will benefit from the Singapore Universities Trust extension?"
+    },
+    {
+        "id": 42,
+        "question": "What is the purpose of the SkillsFuture Workforce Development Grant?"
+    },
+    {
+        "id": 43,
+        "question": "How is the new SkillsFuture Enterprise Credit designed to operate?"
+    },
+    {
+        "id": 44,
+        "question": "How much will each company receive under the redesigned credit?"
+    },
+    {
+        "id": 45,
+        "question": "What is the purpose of Company Training Committees (CTCs)?"
+    },
+    {
+        "id": 46,
+        "question": "What benefits does SATS receive from government programmes?"
+    },
+    {
+        "id": 47,
+        "question": "What is the Uplifting Employment Credit?"
+    },
+    {
+        "id": 48,
+        "question": "What are Singapore’s 2035 and 2050 climate goals?"
+    },
+    {
+        "id": 49,
+        "question": "What proportion of Singapore’s emissions come from transport?"
+    },
+    {
+        "id": 50,
+        "question": "What new schemes are introduced for heavy vehicles?"
+    },
+    {
+        "id": 51,
+        "question": "What is the purpose of the Additional Flat Component in road tax?"
+    },
+    {
+        "id": 52,
+        "question": "How much is being invested into rail infrastructure this decade?"
+    },
+    {
+        "id": 53,
+        "question": "What are the planned new MRT lines?"
+    },
+    {
+        "id": 54,
+        "question": "What is the sea level rise projection by 2100?"
+    },
+    {
+        "id": 55,
+        "question": "What is Long Island, and why is it being developed?"
+    },
+    {
+        "id": 56,
+        "question": "What new support is introduced under the Climate Friendly Households Programme?"
+    },
+    {
+        "id": 57,
+        "question": "What is ComLink+?"
+    },
+    {
+        "id": 58,
+        "question": "How much can families receive in CPF top-ups through ComLink+?"
+    },
+    {
+        "id": 59,
+        "question": "How is the Fresh Start Housing Scheme changing?"
+    },
+    {
+        "id": 60,
+        "question": "What are the new childcare fee caps?"
+    },
+    {
+        "id": 61,
+        "question": "What is the Large Families Scheme?"
+    },
+    {
+        "id": 62,
+        "question": "How much is the LifeSG credit under this scheme per child per year?"
+    },
+    {
+        "id": 63,
+        "question": "What is the Majulah Package?"
+    },
+    {
+        "id": 64,
+        "question": "What is the Enhanced EASE Programme?"
+    },
+    {
+        "id": 65,
+        "question": "What is the Matched MediSave Scheme?"
+    },
+    {
+        "id": 66,
+        "question": "What is the revised maximum Home Caregiving Grant amount?"
+    },
+    {
+        "id": 67,
+        "question": "How will long-term care subsidies change?"
+    },
+    {
+        "id": 68,
+        "question": "What is the Enabling Employment Credit?"
+    },
+    {
+        "id": 69,
+        "question": "Who is eligible for the Matched Retirement Savings Scheme expansion?"
+    },
+    {
+        "id": 70,
+        "question": "How does SNTC support caregivers?"
+    },
+    {
+        "id": 71,
+        "question": "What are the components of the SG60 Package?"
+    },
+    {
+        "id": 72,
+        "question": "How much are the SG60 Vouchers for seniors?"
+    },
+    {
+        "id": 73,
+        "question": "What tax rebate is offered in the SG60 Package?"
+    },
+    {
+        "id": 74,
+        "question": "What is the SG Culture Pass?"
+    },
+    {
+        "id": 75,
+        "question": "What is the focus of Singapore’s tax system reforms?"
+    },
+    {
+        "id": 76,
+        "question": "What is the expected fiscal position for FY2025?"
+    },
+    {
+        "id": 77,
+        "question": "How does the Government plan to fund long-term investments?"
+    },
+    {
+        "id": 78,
+        "question": "Why might the Budget allocate funds to nuclear energy research despite public concerns?"
+    },
+    {
+        "id": 79,
+        "question": "How do the SkillsFuture grants address short-term vs long-term labour market needs?"
+    },
+    {
+        "id": 80,
+        "question": "What makes the Climate Friendly Households Programme equitable?"
+    },
+    {
+        "id": 81,
+        "question": "Evaluate how the Budget balances between social welfare and economic growth."
+    },
+    {
+        "id": 82,
+        "question": "Why is it important for Singapore to focus on electricity imports?"
+    },
+    {
+        "id": 83,
+        "question": "Compare the Government’s approach to seniors vs persons with disabilities."
+    },
+    {
+        "id": 84,
+        "question": "Assess the role of public-private partnerships in Singapore’s innovation strategy."
+    },
+    {
+        "id": 85,
+        "question": "Explain how public housing affordability in Singapore compares to global cities."
+    },
+    {
+        "id": 86,
+        "question": "What are the trade-offs of offering wage offsets to employers for hiring seniors?"
+    },
+    {
+        "id": 87,
+        "question": "How does the Budget tackle both structural and immediate inflation?"
+    },
+    {
+        "id": 88,
+        "question": "What risks exist in investing in nuclear power for Singapore?"
+    },
+    {
+        "id": 89,
+        "question": "Why might the Equities Market Review Group recommend listing incentives?"
+    },
+    {
+        "id": 90,
+        "question": "How might the expansion of EASE to private households benefit public health?"
+    },
+    {
+        "id": 91,
+        "question": "In what ways does the Budget promote intergenerational equity?"
+    },
+    {
+        "id": 92,
+        "question": "What challenges might arise in implementing the SG Culture Pass?"
+    },
+    {
+        "id": 93,
+        "question": "How can companies benefit from government funding in adopting AI?"
+    },
+    {
+        "id": 94,
+        "question": "Why are training allowances extended to part-time workers?"
+    },
+    {
+        "id": 95,
+        "question": "Discuss the importance of supporting employment for ex-offenders."
+    },
+    {
+        "id": 96,
+        "question": "How do various Budget measures ensure inclusive innovation?"
+    },
+    {
+        "id": 97,
+        "question": "What role does long-term planning play in Singapore’s climate adaptation strategy?"
+    },
+    {
+        "id": 98,
+        "question": "How does the Budget address the dual challenge of cost of living and productivity?"
+    },
+    {
+        "id": 99,
+        "question": "In what ways does the Budget reinforce national identity?"
+    },
+    {
+        "id": 100,
+        "question": "What signals does this Budget send about Singapore’s future economic model?"
+    }
+]
