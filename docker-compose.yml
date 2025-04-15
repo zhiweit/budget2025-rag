@@ -17,6 +17,15 @@ services:
       - ${DB_PORT}:5432
 
   ollama:
+    # Uncomment below for GPU support
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities:
+                - gpu
     image: ollama/ollama:latest
     ports:
       - 11434:11434

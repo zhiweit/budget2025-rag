@@ -1,28 +1,37 @@
 import streamlit as st
 import uuid
 import atexit
-from llama_index.core.chat_engine.types import StreamingAgentChatResponse
-from tracing import launch_phoenix, close_phoenix
-from chat_engine import similarity_postprocessor
-from vectors import vsi
-from llama_index.core.chat_engine.types import ChatMode
-from chat_engine import chat_engine_llm, response_synthesizer, SIMILARITY_TOP_K, sentence_transformer_reranker, chat_engine_llm
-from db import chat_store
-from llama_index.core.memory import ChatMemoryBuffer
+import os
 import random
 import time
+from llama_index.core.chat_engine.types import StreamingAgentChatResponse, ChatMode
 from llama_index.core.agent.react.base import ReActAgent
+from llama_index.core.memory import ChatMemoryBuffer
+from tracing import launch_phoenix, close_phoenix
+from chat_engine import (
+    similarity_postprocessor, 
+    response_synthesizer, 
+    SIMILARITY_TOP_K, 
+    sentence_transformer_reranker, 
+    chat_engine_llm
+)
+from vectors import vsi
+from db import chat_store
 
 
 if 'chat_engine' not in st.session_state:
-    # Put your startup code here
+    # startup code
     chat_engine = vsi.as_chat_engine(
         chat_mode=ChatMode.BEST,
         llm=chat_engine_llm,
         similarity_top_k=SIMILARITY_TOP_K,
-        node_postprocessors=[similarity_postprocessor, sentence_transformer_reranker],
+        node_postprocessors=[
+            similarity_postprocessor,
+            sentence_transformer_reranker
+        ],
         response_synthesizer=response_synthesizer,
         streaming=True,
+        max_iterations=30,
     )
 
     st.session_state['chat_engine'] = chat_engine
@@ -32,7 +41,7 @@ if 'chat_engine' not in st.session_state:
     # Launch Phoenix tracing
     launch_phoenix()
     print("Phoenix launched at port 6006")
-    print("Startup code ran")
+    print("Startup completed")
 
 
 # Register cleanup function to be called at shutdown
@@ -40,6 +49,7 @@ def cleanup():
     # Add your cleanup code here
     close_phoenix()
     print("Phoenix closed")
+    print("Cleanup completed")
 
 
 # Register the cleanup handler
@@ -81,7 +91,7 @@ def response_generator(question: str):
             yield token
 
 
-st.title("Simple chat")
+st.title("🤖Singapore Budget 2025 Chatbot")
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -93,7 +103,7 @@ for message in st.session_state.messages:
             st.markdown(message["content"])
 
 # Accept user input
-if prompt := st.chat_input("Ask me questions about the budget."):
+if prompt := st.chat_input("Ask me questions about the budget / 请问我有关预算案的问题 / Tanyakan saya soalan mengenai bajet / பட்ஜெட்டை பற்றிய கேள்விகளை எனக்கேளுங்கள்"):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     # Display user message in chat message container

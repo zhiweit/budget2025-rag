@@ -64,7 +64,8 @@ similarity_postprocessor = SimilarityPostprocessor(
 
 # Sentence Transformer Reranker
 sentence_transformer_reranker = SentenceTransformerRerank(
-    model=SENTENCE_TRANSFORMER_RERANKER_MODEL, top_n=SENTENCE_TRANSFORMER_RERANKER_TOP_N
+    model=SENTENCE_TRANSFORMER_RERANKER_MODEL,
+    top_n=SENTENCE_TRANSFORMER_RERANKER_TOP_N
 )
 
 
