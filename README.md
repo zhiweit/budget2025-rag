@@ -1,6 +1,13 @@
 # budget2025-rag
 
-Chatbot for Budget 2025 with RAG
+Chatbot for Budget 2025 with RAG using open source models.
+
+Demo
+
+
+https://github.com/user-attachments/assets/51c94003-5d33-42f5-a874-e91938faacb3
+
+
 
 ## Features
 
@@ -68,7 +75,7 @@ PDF files are parsed into markdown text using Mistral OCR API
    - Embed the query using the embedding model from the vector index
    - Retrieve the top K most similar nodes/chunks from the vector store (similarity computed using cosine similarity score)
    - Postprocess the retrieved nodes to only include nodes whose similarity score is greater than the similarity cutoff (set to 0.7)
-   - Rerank the nodes to `reranker_top_n` (set to 4) using sentence reranker that compares the query with the node/chunk and returns how semantically similar they are to each other
+   - Rerank the nodes to `reranker_top_n` (set to 4) using jina reranker that compares the query with the node/chunk and returns how semantically similar they are to each other
    - Generate answer to the question via the response synthesizer with the context from the reranked nodes using a [compact](https://docs.llamaindex.ai/en/stable/module_guides/querying/response_synthesizers/#configuring-the-response-mode) response mode which stuffs the chunks up to the context window with the question to generate the answer.
    - Generated answer is returned to the ReAct agent to reason on the answer and decide if it needs to invoke the tool again or not
 
