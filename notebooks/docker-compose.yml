@@ -1,0 +1,43 @@
+# Use postgres/example user/password credentials
+volumes:
+  db_data: {}
+  ollama_data: {}
+
+networks:
+  budget2025-rag-network:
+    driver: bridge
+
+services:
+  db:
+    image: pgvector/pgvector:pg17 # postgres with pgvector extension
+    restart: always
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_DB: ${DB_NAME}
+
+    ports:
+      - ${DB_PORT}:5432
+    networks:
+      - budget2025-rag-network
+
+  ollama:
+    # Uncomment below for GPU support
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities:
+                - gpu
+
+    image: ollama/ollama:latest
+    ports:
+      - 11434:11434
+    volumes:
+      - ollama_data:/root/.ollama
+    networks:
+      - budget2025-rag-network

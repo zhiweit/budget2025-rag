@@ -38,7 +38,6 @@ if 'chat_engine' not in st.session_state:
 
     st.session_state['chat_engine'] = chat_engine
 
-    # remove memory for now as it does not work well with the chat engine i.e. the llm pays more attention to the memory than the context
     thread_id = str(uuid.uuid4())
     st.session_state['thread_id'] = thread_id
     print(f"Thread ID: {thread_id}")
@@ -48,6 +47,7 @@ if 'chat_engine' not in st.session_state:
         px.launch_app()
         llama_index.core.set_global_handler("arize_phoenix")
         print("Phoenix launched")
+        print(f"Chat engine LLM model: {chat_engine_llm._get_model_name()}")
     print("Startup completed")
 
 

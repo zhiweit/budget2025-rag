@@ -1,0 +1,201 @@
+attributes.input.value,ncdg@2_score,precision@2_score,hit
+"{""query_bundle"": {""query_str"": ""What mental health issues were advocated for by Dr Wan Rizal and Ms Rachel Ong?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What mental health issues were advocated for by Dr Wan Rizal and Ms Rachel Ong?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""How is the government supporting businesses and workers to navigate the new economic reality?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How is the government supporting businesses and workers to navigate the new economic reality?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""What measures are being taken to help Singaporeans cope with the strains and stressors of life?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What measures are being taken to help Singaporeans cope with the strains and stressors of life?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""Who championed for the arts and what was the reminder given by Mr Ong Hua Han?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Who championed for the arts and what was the reminder given by Mr Ong Hua Han?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What are some examples of participatory platforms mentioned in the context?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are some examples of participatory platforms mentioned in the context?,0.0,0.0,False
+"{""query_bundle"": {""query_str"": ""Why are participatory platforms considered resource-intensive?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why are participatory platforms considered resource-intensive?,0.0,0.0,False
+"{""query_bundle"": {""query_str"": ""What are some of the key points raised by the members?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are some of the key points raised by the members?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""Is the government being overly conservative in its fiscal projections and plans?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Is the government being overly conservative in its fiscal projections and plans?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""Which groups did Ms Jean See, Ms Yeo Wan Ling, and Mr Gan Thiam Poh highlight as needing more support?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+"Which groups did Ms Jean See, Ms Yeo Wan Ling, and Mr Gan Thiam Poh highlight as needing more support?",0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the means testing criteria that need fine-tuning?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the means testing criteria that need fine-tuning?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What is the government's commitment regarding social spending?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the government's commitment regarding social spending?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How does the government justify the increase in social spending?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does the government justify the increase in social spending?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What factors are contributing to the expected growth in social spending?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What factors are contributing to the expected growth in social spending?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How does the aging population affect healthcare costs?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does the aging population affect healthcare costs?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""What is the purpose of the Forward Singapore initiative?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the purpose of the Forward Singapore initiative?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What strategies are being considered to navigate the uncertain global environment and create jobs for Singaporeans?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What strategies are being considered to navigate the uncertain global environment and create jobs for Singaporeans?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""Which MPs have spoken about creating opportunities for Singaporeans in the current global climate?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Which MPs have spoken about creating opportunities for Singaporeans in the current global climate?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the main challenges mentioned in navigating the global environment to benefit Singaporeans?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the main challenges mentioned in navigating the global environment to benefit Singaporeans?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What are the implications of the weakening multilateral trading system on global trade?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the implications of the weakening multilateral trading system on global trade?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How are countries prioritizing their defense and security interests in the current global climate?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How are countries prioritizing their defense and security interests in the current global climate?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How has China's share in global manufacturing output changed over the past twenty years?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How has China's share in global manufacturing output changed over the past twenty years?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""Why is there a need to rebuild manufacturing in America and Europe?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why is there a need to rebuild manufacturing in America and Europe?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How is Singapore addressing the concerns about technology leakage while remaining an open hub?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How is Singapore addressing the concerns about technology leakage while remaining an open hub?,0.6309297535714573,0.5,True
+"{""query_bundle"": {""query_str"": ""What actions have been taken to ensure Singapore remains a reliable and trusted partner in global trade and commerce?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What actions have been taken to ensure Singapore remains a reliable and trusted partner in global trade and commerce?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How do Western countries perceive their position in terms of industrial base and war efforts?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How do Western countries perceive their position in terms of industrial base and war efforts?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What measures is Singapore taking to enhance its competitiveness in the global market?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What measures is Singapore taking to enhance its competitiveness in the global market?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""Why might small and open economies like Singapore be disadvantaged in the current global system?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why might small and open economies like Singapore be disadvantaged in the current global system?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the reasons behind major powers preparing for conflict despite stating they do not want it?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the reasons behind major powers preparing for conflict despite stating they do not want it?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""Why is it important for Singapore to stay open as a hub in today's fragmented world?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why is it important for Singapore to stay open as a hub in today's fragmented world?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the concerns of key countries regarding technology leakage?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the concerns of key countries regarding technology leakage?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""How do the proactive moves help businesses operate with assurance and confidence in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How do the proactive moves help businesses operate with assurance and confidence in Singapore?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What has been the annual growth rate of labor productivity over the past decade?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What has been the annual growth rate of labor productivity over the past decade?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""Which sectors have primarily driven the growth in labor productivity?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Which sectors have primarily driven the growth in labor productivity?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What can be done to improve productivity in domestic-oriented sectors?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What can be done to improve productivity in domestic-oriented sectors?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the main factors contributing to the high costs of doing business in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the main factors contributing to the high costs of doing business in Singapore?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How does land scarcity in Singapore affect land prices?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does land scarcity in Singapore affect land prices?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""Why are energy costs high in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why are energy costs high in Singapore?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What is the relationship between wage increases and productivity gains in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the relationship between wage increases and productivity gains in Singapore?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How has real wage growth compared to productivity growth in Singapore over the past decade?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How has real wage growth compared to productivity growth in Singapore over the past decade?,0.0,0.0,False
+"{""query_bundle"": {""query_str"": ""What is the Progressive Wage Model and how does it benefit workers in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the Progressive Wage Model and how does it benefit workers in Singapore?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are some of the successful transformations made by retailers like Phoon Huat?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are some of the successful transformations made by retailers like Phoon Huat?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""Who is leading the review of regulatory processes to cut compliance costs?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Who is leading the review of regulatory processes to cut compliance costs?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What is the role of the Inter-Ministerial Committee for Pro-Enterprise Rules Review?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the role of the Inter-Ministerial Committee for Pro-Enterprise Rules Review?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""Why might Singapore consumers prefer purchasing items from abroad?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why might Singapore consumers prefer purchasing items from abroad?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What update is expected from DPM Gan Kim Yong at MTI's COS?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What update is expected from DPM Gan Kim Yong at MTI's COS?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the concerns of some retailers regarding the Johor-Singapore SEZ and the RTS Link?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the concerns of some retailers regarding the Johor-Singapore SEZ and the RTS Link?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the Corporate Income Tax rebates mentioned in the context?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the Corporate Income Tax rebates mentioned in the context?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How does the Progressive Wage Credit Scheme help companies with wage increases for lower-wage workers?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does the Progressive Wage Credit Scheme help companies with wage increases for lower-wage workers?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What role can the government play in helping companies transform and restructure?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What role can the government play in helping companies transform and restructure?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How is e-commerce affecting local retailers in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How is e-commerce affecting local retailers in Singapore?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How has Phoon Huat expanded its operations since its inception?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How has Phoon Huat expanded its operations since its inception?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What role does Enterprise Singapore play in supporting businesses like Phoon Huat?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What role does Enterprise Singapore play in supporting businesses like Phoon Huat?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the new initiatives highlighted in the Budget to support SMEs?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the new initiatives highlighted in the Budget to support SMEs?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""Why has the utilisation of enterprise schemes been lower than expected in the past?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why has the utilisation of enterprise schemes been lower than expected in the past?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How do MNEs support the enterprise development strategy in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How do MNEs support the enterprise development strategy in Singapore?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What opportunities exist for global entrepreneurs in Singapore's enterprise ecosystem?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What opportunities exist for global entrepreneurs in Singapore's enterprise ecosystem?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How has the enterprise ecosystem in Singapore improved over the past 15 years?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How has the enterprise ecosystem in Singapore improved over the past 15 years?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What are the potential impacts of industry transformation on job design and creation?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the potential impacts of industry transformation on job design and creation?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""Why are Singaporeans concerned about job churn and redesign?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why are Singaporeans concerned about job churn and redesign?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What disruptions could rapid technological advances pose to the job market?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What disruptions could rapid technological advances pose to the job market?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What is the SkillsFuture Level-Up Programme and who is it intended for?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the SkillsFuture Level-Up Programme and who is it intended for?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What measures has Singapore introduced to protect against workplace discrimination?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What measures has Singapore introduced to protect against workplace discrimination?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the positive outcomes of Singapore's approach to foreign workers?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the positive outcomes of Singapore's approach to foreign workers?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""Which MPs have spoken about the concerns related to job transformation and technological advances?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Which MPs have spoken about the concerns related to job transformation and technological advances?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How does the COMPASS framework for Employment Passes work?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does the COMPASS framework for Employment Passes work?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What is the purpose of the SkillsFuture initiative?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the purpose of the SkillsFuture initiative?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""What steps is the government taking to strengthen SkillsFuture?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What steps is the government taking to strengthen SkillsFuture?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How does the SkillsFuture Jobseeker Support scheme assist those who are involuntarily unemployed?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does the SkillsFuture Jobseeker Support scheme assist those who are involuntarily unemployed?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How long has the SkillsFuture initiative been in place?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How long has the SkillsFuture initiative been in place?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What is Singapore's approach towards foreign workers?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is Singapore's approach towards foreign workers?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the goals of the talent development strategy mentioned in the context?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the goals of the talent development strategy mentioned in the context?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How is the Singaporean government planning to support senior worker employment according to the budget?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How is the Singaporean government planning to support senior worker employment according to the budget?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""What is the role of the Tripartite Workgroup in addressing senior worker employment issues?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the role of the Tripartite Workgroup in addressing senior worker employment issues?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""Why is there a need to invest more in adult education and training compared to pre-employment training?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why is there a need to invest more in adult education and training compared to pre-employment training?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""In what ways is Singapore at the forefront of adult education and training compared to other countries?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+In what ways is Singapore at the forefront of adult education and training compared to other countries?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What challenges does Singapore face in building up the SkillsFuture system?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What challenges does Singapore face in building up the SkillsFuture system?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""What commitment has been made towards strengthening the SkillsFuture initiative in the coming years?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What commitment has been made towards strengthening the SkillsFuture initiative in the coming years?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How does the government plan to create more opportunities and better jobs for Singaporeans?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does the government plan to create more opportunities and better jobs for Singaporeans?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What are the global factors that have driven inflation in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the global factors that have driven inflation in Singapore?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How did the GST increase affect inflation in Singapore according to the context?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How did the GST increase affect inflation in Singapore according to the context?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""Why does the context suggest that the effect of the GST increase on inflation was 'transitory'?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why does the context suggest that the effect of the GST increase on inflation was 'transitory'?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What is 'vibecession' and how does it relate to the current economic sentiment in the US?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is 'vibecession' and how does it relate to the current economic sentiment in the US?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""Why are the Workers' Party and Progress Singapore Party unhappy with the government's use of vouchers?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why are the Workers' Party and Progress Singapore Party unhappy with the government's use of vouchers?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What was the trend in CPI inflation in Singapore from 2022 to 2024?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What was the trend in CPI inflation in Singapore from 2022 to 2024?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What measures has the Singapore government taken to help citizens cope with inflation?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What measures has the Singapore government taken to help citizens cope with inflation?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""What is the current state of inflation globally and in Singapore?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the current state of inflation globally and in Singapore?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What are the temporary help measures provided by the government to address cost-of-living concerns?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the temporary help measures provided by the government to address cost-of-living concerns?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""Why do price levels remain high even though inflation has eased?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why do price levels remain high even though inflation has eased?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""How do high price levels create real pressures for people?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How do high price levels create real pressures for people?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""Why are people still concerned about cost pressures despite the easing of inflation?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+Why are people still concerned about cost pressures despite the easing of inflation?,0.6131471927654585,0.5,True
+"{""query_bundle"": {""query_str"": ""What percentage of the budget is allocated to cost-of-living measures and the SG60 Package?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What percentage of the budget is allocated to cost-of-living measures and the SG60 Package?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What are the structural programmes mentioned that aim to equip and empower Singaporeans?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the structural programmes mentioned that aim to equip and empower Singaporeans?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""How does the government plan to ensure Singaporeans can seize better opportunities in a rapidly changing world?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does the government plan to ensure Singaporeans can seize better opportunities in a rapidly changing world?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What is the key approach Singapore is using to tackle cost-of-living issues?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What is the key approach Singapore is using to tackle cost-of-living issues?,0.3868528072345415,0.5,True
+"{""query_bundle"": {""query_str"": ""How has Singapore's real household income growth compared to other advanced economies from 2013 to 2023?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How has Singapore's real household income growth compared to other advanced economies from 2013 to 2023?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What data sources were used to estimate the annualised real household income growth among advanced economies?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What data sources were used to estimate the annualised real household income growth among advanced economies?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""How are income growth rates for Finland and Japan computed differently from other economies?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How are income growth rates for Finland and Japan computed differently from other economies?,1.0,0.5,True
+"{""query_bundle"": {""query_str"": ""What adjustments are made to account for household size differences in income growth data?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What adjustments are made to account for household size differences in income growth data?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""What are the basic needs that the social support system in Singapore aims to address?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+What are the basic needs that the social support system in Singapore aims to address?,1.0,1.0,True
+"{""query_bundle"": {""query_str"": ""How does Singapore's social support system help disadvantaged and vulnerable groups?"", ""image_path"": null, ""custom_embedding_strs"": null, ""embedding"": null}}",,,
+How does Singapore's social support system help disadvantaged and vulnerable groups?,1.0,1.0,True
