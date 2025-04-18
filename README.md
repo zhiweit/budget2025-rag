@@ -87,6 +87,10 @@ PDF files are parsed into markdown text using Mistral OCR API
 
 Done in `notebooks/eval.ipynb` using [Arize Phoenix](https://docs.arize.com/phoenix/use-cases-evals/rag-evaluation#evaluation) for retrieval and response evaluation, over sample 100 LLM generated questions from the nodes/chunks in the vector store.
 
+Sample query engine trace 
+![sample-query-engine-trace](https://github.com/user-attachments/assets/0b99c2a3-50c9-4a31-9420-ebb16394d8e5)
+
+
 ### Retrieval Evaluation
 
 - Normalized Cumulative Discounted Gain (NCDG) (~0.78): For most queries, the retrieval system is able to identify relevant documents and usually (but not always) place the most relevant documents at the top. But sometimes less relevant documents are ranked higher than more relevant ones.
